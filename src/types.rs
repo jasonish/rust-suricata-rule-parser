@@ -1,4 +1,4 @@
-// Copyright 2021 Open Information Security Foundation
+// Copyright 2021-2022 Open Information Security Foundation
 //
 // MIT License.
 //
