@@ -2,6 +2,7 @@
 //
 // Copyright (C) 2021-2022 Open Information Security Foundation
 
+pub mod byte_math;
 pub mod byte_test;
 
 use crate::common::{parse_number, parse_tag, parse_token};
